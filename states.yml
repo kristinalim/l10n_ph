@@ -1,0 +1,325 @@
+---
+- name: Abra
+  country_id: '160'
+  id: '101'
+  abbr: ABR
+- name: Agusan Del Norte
+  country_id: '160'
+  id: '102'
+  abbr: AGN
+- name: Agusan Del Sur
+  country_id: '160'
+  id: '103'
+  abbr: AGS
+- name: Aklan
+  country_id: '160'
+  id: '104'
+  abbr: AKL
+- name: Albay
+  country_id: '160'
+  id: '105'
+  abbr: ALB
+- name: Antique
+  country_id: '160'
+  id: '106'
+  abbr: ANT
+- name: Apayao
+  country_id: '160'
+  id: '107'
+  abbr: APA
+- name: Aurora
+  country_id: '160'
+  id: '108'
+  abbr: AUR
+- name: Basilan
+  country_id: '160'
+  id: '109'
+  abbr: BAS
+- name: Bataan
+  country_id: '160'
+  id: '110'
+  abbr: BAN
+- name: Batanes
+  country_id: '160'
+  id: '111'
+  abbr: BTN
+- name: Batangas
+  country_id: '160'
+  id: '112'
+  abbr: BTG
+- name: Benguet
+  country_id: '160'
+  id: '113'
+  abbr: BEN
+- name: Biliran
+  country_id: '160'
+  id: '114'
+  abbr: BIL
+- name: Bohol
+  country_id: '160'
+  id: '115'
+  abbr: BOH
+- name: Bukidnon
+  country_id: '160'
+  id: '116'
+  abbr: BUK
+- name: Bulacan
+  country_id: '160'
+  id: '117'
+  abbr: BUL
+- name: Cagayan
+  country_id: '160'
+  id: '118'
+  abbr: CAG
+- name: Camarines Norte
+  country_id: '160'
+  id: '119'
+  abbr: CAN
+- name: Camarines Sur
+  country_id: '160'
+  id: '120'
+  abbr: CAS
+- name: Camiguin
+  country_id: '160'
+  id: '121'
+  abbr: CAM
+- name: Capiz
+  country_id: '160'
+  id: '122'
+  abbr: CAP
+- name: Catanduanes
+  country_id: '160'
+  id: '123'
+  abbr: CAT
+- name: Cavite
+  country_id: '160'
+  id: '124'
+  abbr: CAV
+- name: Cebu
+  country_id: '160'
+  id: '125'
+  abbr: CEB
+- name: Compostela Valley
+  country_id: '160'
+  id: '126'
+  abbr: COM
+- name: Cotabato
+  country_id: '160'
+  id: '127'
+  abbr: NCO
+- name: Davao del Norte
+  country_id: '160'
+  id: '128'
+  abbr: DAV
+- name: Davao del Sur
+  country_id: '160'
+  id: '129'
+  abbr: DAS
+- name: Davao Occidental
+  country_id: '160'
+  id: '130'
+  abbr: DVO
+- name: Davao Oriental
+  country_id: '160'
+  id: '131'
+  abbr: DAO
+- name: Dinagat Islands
+  country_id: '160'
+  id: '132'
+  abbr: DIN
+- name: Eastern Samar
+  country_id: '160'
+  id: '133'
+  abbr: EAS
+- name: Guimaras
+  country_id: '160'
+  id: '134'
+  abbr: GUI
+- name: Ifugao
+  country_id: '160'
+  id: '135'
+  abbr: IFU
+- name: Ilocos Norte
+  country_id: '160'
+  id: '136'
+  abbr: ILN
+- name: Ilocos Sur
+  country_id: '160'
+  id: '137'
+  abbr: ILS
+- name: Iloilo
+  country_id: '160'
+  id: '138'
+  abbr: ILI
+- name: Isabela
+  country_id: '160'
+  id: '139'
+  abbr: ISA
+- name: Kalinga
+  country_id: '160'
+  id: '140'
+  abbr: KAL
+- name: La Union
+  country_id: '160'
+  id: '141'
+  abbr: LUN
+- name: Laguna
+  country_id: '160'
+  id: '142'
+  abbr: LAG
+- name: Lanao del Norte
+  country_id: '160'
+  id: '143'
+  abbr: LAN
+- name: Lanao del Sur
+  country_id: '160'
+  id: '144'
+  abbr: LAS
+- name: Leyte
+  country_id: '160'
+  id: '145'
+  abbr: LEY
+- name: Maguindanao
+  country_id: '160'
+  id: '146'
+  abbr: MAG
+- name: Marinduque
+  country_id: '160'
+  id: '147'
+  abbr: MAD
+- name: Masbate
+  country_id: '160'
+  id: '148'
+  abbr: MAS
+- name: Misamis Occidental
+  country_id: '160'
+  id: '149'
+  abbr: MSC
+- name: Misamis Oriental
+  country_id: '160'
+  id: '150'
+  abbr: MSR
+- name: Mountain Province
+  country_id: '160'
+  id: '151'
+  abbr: MOU
+- name: Negros Occidental
+  country_id: '160'
+  id: '152'
+  abbr: NEC
+- name: Negros Oriental
+  country_id: '160'
+  id: '153'
+  abbr: NER
+- name: Northern Samar
+  country_id: '160'
+  id: '154'
+  abbr: NSA
+- name: Nueva Ecija
+  country_id: '160'
+  id: '155'
+  abbr: NUE
+- name: Nueva Vizcaya
+  country_id: '160'
+  id: '156'
+  abbr: NUV
+- name: Occidental Mindoro
+  country_id: '160'
+  id: '157'
+  abbr: MDC
+- name: Oriental Mindoro
+  country_id: '160'
+  id: '158'
+  abbr: MDR
+- name: Palawan
+  country_id: '160'
+  id: '159'
+  abbr: PLW
+- name: Pampanga
+  country_id: '160'
+  id: '160'
+  abbr: PAM
+- name: Pangasinan
+  country_id: '160'
+  id: '161'
+  abbr: PAN
+- name: Quezon
+  country_id: '160'
+  id: '162'
+  abbr: QUE
+- name: Quirino
+  country_id: '160'
+  id: '163'
+  abbr: QUI
+- name: Rizal
+  country_id: '160'
+  id: '164'
+  abbr: RIZ
+- name: Romblon
+  country_id: '160'
+  id: '165'
+  abbr: ROM
+- name: Samar
+  country_id: '160'
+  id: '166'
+  abbr: WSA
+- name: Saranggani
+  country_id: '160'
+  id: '167'
+  abbr: SAR
+- name: Siquijor
+  country_id: '160'
+  id: '168'
+  abbr: SIG
+- name: Sorsogon
+  country_id: '160'
+  id: '169'
+  abbr: SOR
+- name: South Cotabato
+  country_id: '160'
+  id: '170'
+  abbr: SCO
+- name: Southern Leyte
+  country_id: '160'
+  id: '171'
+  abbr: SLE
+- name: Sultan Kudarat
+  country_id: '160'
+  id: '172'
+  abbr: SUK
+- name: Sulu
+  country_id: '160'
+  id: '173'
+  abbr: SLU
+- name: Surigao del Norte
+  country_id: '160'
+  id: '174'
+  abbr: SUN
+- name: Surigao de Sur
+  country_id: '160'
+  id: '175'
+  abbr: SUR
+- name: Tarlac
+  country_id: '160'
+  id: '176'
+  abbr: TAR
+- name: Tawi-Tawi
+  country_id: '160'
+  id: '177'
+  abbr: TAW
+- name: Zambales
+  country_id: '160'
+  id: '178'
+  abbr: ZMB
+- name: Zamboanga del Norte
+  country_id: '160'
+  id: '179'
+  abbr: ZAN
+- name: Zamboanga del Sur
+  country_id: '160'
+  id: '180'
+  abbr: ZAS
+- name: Zamboanga Sibugay
+  country_id: '160'
+  id: '181'
+  abbr: ZSI
