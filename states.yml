@@ -323,3 +323,7 @@
   country_id: '160'
   id: '181'
   abbr: ZSI
+- name: Metro Manila
+  country_id: '160'
+  id: '182'
+  abbr: '00'
