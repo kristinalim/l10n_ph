@@ -2,328 +2,328 @@
 - name: Abra
   country_id: '160'
   id: '101'
-  abbr: ABR
+  abbr: Abra
 - name: Agusan Del Norte
   country_id: '160'
   id: '102'
-  abbr: AGN
+  abbr: Agusan Del Norte
 - name: Agusan Del Sur
   country_id: '160'
   id: '103'
-  abbr: AGS
+  abbr: Agusan Del Sur
 - name: Aklan
   country_id: '160'
   id: '104'
-  abbr: AKL
+  abbr: Aklan
 - name: Albay
   country_id: '160'
   id: '105'
-  abbr: ALB
+  abbr: Albay
 - name: Antique
   country_id: '160'
   id: '106'
-  abbr: ANT
+  abbr: Antique
 - name: Apayao
   country_id: '160'
   id: '107'
-  abbr: APA
+  abbr: Apayao
 - name: Aurora
   country_id: '160'
   id: '108'
-  abbr: AUR
+  abbr: Aurora
 - name: Basilan
   country_id: '160'
   id: '109'
-  abbr: BAS
+  abbr: Basilan
 - name: Bataan
   country_id: '160'
   id: '110'
-  abbr: BAN
+  abbr: Bataan
 - name: Batanes
   country_id: '160'
   id: '111'
-  abbr: BTN
+  abbr: Batanes
 - name: Batangas
   country_id: '160'
   id: '112'
-  abbr: BTG
+  abbr: Batangas
 - name: Benguet
   country_id: '160'
   id: '113'
-  abbr: BEN
+  abbr: Benguet
 - name: Biliran
   country_id: '160'
   id: '114'
-  abbr: BIL
+  abbr: Biliran
 - name: Bohol
   country_id: '160'
   id: '115'
-  abbr: BOH
+  abbr: Bohol
 - name: Bukidnon
   country_id: '160'
   id: '116'
-  abbr: BUK
+  abbr: Bukidnon
 - name: Bulacan
   country_id: '160'
   id: '117'
-  abbr: BUL
+  abbr: Bulacan
 - name: Cagayan
   country_id: '160'
   id: '118'
-  abbr: CAG
+  abbr: Cagayan
 - name: Camarines Norte
   country_id: '160'
   id: '119'
-  abbr: CAN
+  abbr: Camarines Norte
 - name: Camarines Sur
   country_id: '160'
   id: '120'
-  abbr: CAS
+  abbr: Camarines Sur
 - name: Camiguin
   country_id: '160'
   id: '121'
-  abbr: CAM
+  abbr: Camiguin
 - name: Capiz
   country_id: '160'
   id: '122'
-  abbr: CAP
+  abbr: Capiz
 - name: Catanduanes
   country_id: '160'
   id: '123'
-  abbr: CAT
+  abbr: Catanduanes
 - name: Cavite
   country_id: '160'
   id: '124'
-  abbr: CAV
+  abbr: Cavite
 - name: Cebu
   country_id: '160'
   id: '125'
-  abbr: CEB
+  abbr: Cebu
 - name: Compostela Valley
   country_id: '160'
   id: '126'
-  abbr: COM
+  abbr: Compostela Valley
 - name: Cotabato
   country_id: '160'
   id: '127'
-  abbr: NCO
+  abbr: Cotabato
 - name: Davao del Norte
   country_id: '160'
   id: '128'
-  abbr: DAV
+  abbr: Davao del Norte
 - name: Davao del Sur
   country_id: '160'
   id: '129'
-  abbr: DAS
+  abbr: Davao del Sur
 - name: Davao Occidental
   country_id: '160'
   id: '130'
-  abbr: DVO
+  abbr: Davao Occidental
 - name: Davao Oriental
   country_id: '160'
   id: '131'
-  abbr: DAO
+  abbr: Davao Oriental
 - name: Dinagat Islands
   country_id: '160'
   id: '132'
-  abbr: DIN
+  abbr: Dinagat Islands
 - name: Eastern Samar
   country_id: '160'
   id: '133'
-  abbr: EAS
+  abbr: Eastern Samar
 - name: Guimaras
   country_id: '160'
   id: '134'
-  abbr: GUI
+  abbr: Guimaras
 - name: Ifugao
   country_id: '160'
   id: '135'
-  abbr: IFU
+  abbr: Ifugao
 - name: Ilocos Norte
   country_id: '160'
   id: '136'
-  abbr: ILN
+  abbr: Ilocos Norte
 - name: Ilocos Sur
   country_id: '160'
   id: '137'
-  abbr: ILS
+  abbr: Ilocos Sur
 - name: Iloilo
   country_id: '160'
   id: '138'
-  abbr: ILI
+  abbr: Iloilo
 - name: Isabela
   country_id: '160'
   id: '139'
-  abbr: ISA
+  abbr: Isabela
 - name: Kalinga
   country_id: '160'
   id: '140'
-  abbr: KAL
+  abbr: Kalinga
 - name: La Union
   country_id: '160'
   id: '141'
-  abbr: LUN
+  abbr: La Union
 - name: Laguna
   country_id: '160'
   id: '142'
-  abbr: LAG
+  abbr: Laguna
 - name: Lanao del Norte
   country_id: '160'
   id: '143'
-  abbr: LAN
+  abbr: Lanao del Norte
 - name: Lanao del Sur
   country_id: '160'
   id: '144'
-  abbr: LAS
+  abbr: Lanao del Sur
 - name: Leyte
   country_id: '160'
   id: '145'
-  abbr: LEY
+  abbr: Leyte
 - name: Maguindanao
   country_id: '160'
   id: '146'
-  abbr: MAG
+  abbr: Maguindanao
 - name: Marinduque
   country_id: '160'
   id: '147'
-  abbr: MAD
+  abbr: Marinduque
 - name: Masbate
   country_id: '160'
   id: '148'
-  abbr: MAS
+  abbr: Masbate
 - name: Misamis Occidental
   country_id: '160'
   id: '149'
-  abbr: MSC
+  abbr: Misamis Occidental
 - name: Misamis Oriental
   country_id: '160'
   id: '150'
-  abbr: MSR
+  abbr: Misamis Oriental
 - name: Mountain Province
   country_id: '160'
   id: '151'
-  abbr: MOU
+  abbr: Mountain Province
 - name: Negros Occidental
   country_id: '160'
   id: '152'
-  abbr: NEC
+  abbr: Negros Occidental
 - name: Negros Oriental
   country_id: '160'
   id: '153'
-  abbr: NER
+  abbr: Negros Oriental
 - name: Northern Samar
   country_id: '160'
   id: '154'
-  abbr: NSA
+  abbr: Northern Samar
 - name: Nueva Ecija
   country_id: '160'
   id: '155'
-  abbr: NUE
+  abbr: Nueva Ecija
 - name: Nueva Vizcaya
   country_id: '160'
   id: '156'
-  abbr: NUV
+  abbr: Nueva Vizcaya
 - name: Occidental Mindoro
   country_id: '160'
   id: '157'
-  abbr: MDC
+  abbr: Occidental Mindoro
 - name: Oriental Mindoro
   country_id: '160'
   id: '158'
-  abbr: MDR
+  abbr: Oriental Mindoro
 - name: Palawan
   country_id: '160'
   id: '159'
-  abbr: PLW
+  abbr: Palawan
 - name: Pampanga
   country_id: '160'
   id: '160'
-  abbr: PAM
+  abbr: Pampanga
 - name: Pangasinan
   country_id: '160'
   id: '161'
-  abbr: PAN
+  abbr: Pangasinan
 - name: Quezon
   country_id: '160'
   id: '162'
-  abbr: QUE
+  abbr: Quezon
 - name: Quirino
   country_id: '160'
   id: '163'
-  abbr: QUI
+  abbr: Quirino
 - name: Rizal
   country_id: '160'
   id: '164'
-  abbr: RIZ
+  abbr: Rizal
 - name: Romblon
   country_id: '160'
   id: '165'
-  abbr: ROM
+  abbr: Romblon
 - name: Samar
   country_id: '160'
   id: '166'
-  abbr: WSA
+  abbr: Samar
 - name: Saranggani
   country_id: '160'
   id: '167'
-  abbr: SAR
+  abbr: Saranggani
 - name: Siquijor
   country_id: '160'
   id: '168'
-  abbr: SIG
+  abbr: Siquijor
 - name: Sorsogon
   country_id: '160'
   id: '169'
-  abbr: SOR
+  abbr: Sorsogon
 - name: South Cotabato
   country_id: '160'
   id: '170'
-  abbr: SCO
+  abbr: South Cotabato
 - name: Southern Leyte
   country_id: '160'
   id: '171'
-  abbr: SLE
+  abbr: Southern Leyte
 - name: Sultan Kudarat
   country_id: '160'
   id: '172'
-  abbr: SUK
+  abbr: Sultan Kudarat
 - name: Sulu
   country_id: '160'
   id: '173'
-  abbr: SLU
+  abbr: Sulu
 - name: Surigao del Norte
   country_id: '160'
   id: '174'
-  abbr: SUN
+  abbr: Surigao del Norte
 - name: Surigao de Sur
   country_id: '160'
   id: '175'
-  abbr: SUR
+  abbr: Surigao de Sur
 - name: Tarlac
   country_id: '160'
   id: '176'
-  abbr: TAR
+  abbr: Tarlac
 - name: Tawi-Tawi
   country_id: '160'
   id: '177'
-  abbr: TAW
+  abbr: Tawi-Tawi
 - name: Zambales
   country_id: '160'
   id: '178'
-  abbr: ZMB
+  abbr: Zambales
 - name: Zamboanga del Norte
   country_id: '160'
   id: '179'
-  abbr: ZAN
+  abbr: Zamboanga del Norte
 - name: Zamboanga del Sur
   country_id: '160'
   id: '180'
-  abbr: ZAS
+  abbr: Zamboanga del Sur
 - name: Zamboanga Sibugay
   country_id: '160'
   id: '181'
-  abbr: ZSI
+  abbr: Zamboanga Sibugay
 - name: Metro Manila
   country_id: '160'
   id: '182'
-  abbr: '00'
+  abbr: Metro Manila
